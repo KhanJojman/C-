@@ -1,0 +1,15 @@
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\bin\Debug\net6.0\мая первая кансоль.exe
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\bin\Debug\net6.0\мая первая кансоль.deps.json
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\bin\Debug\net6.0\мая первая кансоль.runtimeconfig.json
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\bin\Debug\net6.0\мая первая кансоль.dll
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\bin\Debug\net6.0\мая первая кансоль.pdb
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\obj\Debug\net6.0\мая первая кансоль.csproj.AssemblyReference.cache
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\obj\Debug\net6.0\мая первая кансоль.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\obj\Debug\net6.0\мая первая кансоль.AssemblyInfoInputs.cache
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\obj\Debug\net6.0\мая первая кансоль.AssemblyInfo.cs
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\obj\Debug\net6.0\мая первая кансоль.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\obj\Debug\net6.0\мая первая кансоль.dll
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\obj\Debug\net6.0\refint\мая первая кансоль.dll
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\obj\Debug\net6.0\мая первая кансоль.pdb
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\obj\Debug\net6.0\мая первая кансоль.genruntimeconfig.cache
+C:\Users\ИСП-21\Desktop\мая первая кансоль\мая первая кансоль\obj\Debug\net6.0\ref\мая первая кансоль.dll

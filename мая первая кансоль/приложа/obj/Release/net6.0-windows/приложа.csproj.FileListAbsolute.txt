@@ -1,0 +1,17 @@
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\bin\Release\net6.0-windows\приложа.exe
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\bin\Release\net6.0-windows\приложа.deps.json
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\bin\Release\net6.0-windows\приложа.runtimeconfig.json
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\bin\Release\net6.0-windows\приложа.dll
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\bin\Release\net6.0-windows\приложа.pdb
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\obj\Release\net6.0-windows\приложа.csproj.AssemblyReference.cache
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\obj\Release\net6.0-windows\приложа.Form1.resources
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\obj\Release\net6.0-windows\приложа.csproj.GenerateResource.cache
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\obj\Release\net6.0-windows\приложа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\obj\Release\net6.0-windows\приложа.AssemblyInfoInputs.cache
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\obj\Release\net6.0-windows\приложа.AssemblyInfo.cs
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\obj\Release\net6.0-windows\приложа.csproj.CoreCompileInputs.cache
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\obj\Release\net6.0-windows\приложа.dll
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\obj\Release\net6.0-windows\refint\приложа.dll
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\obj\Release\net6.0-windows\приложа.pdb
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\obj\Release\net6.0-windows\приложа.genruntimeconfig.cache
+C:\Users\ИСП-21\Desktop\мая первая кансоль\приложа\obj\Release\net6.0-windows\ref\приложа.dll
